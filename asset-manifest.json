@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/b06705039/song-web.github.io/static/css/main.41648ad0.css",
+    "main.js": "/b06705039/song-web.github.io/static/js/main.b9693ff7.js",
+    "static/media/background.png": "/b06705039/song-web.github.io/static/media/background.9f16a5c0193e1ebc5531.png",
+    "index.html": "/b06705039/song-web.github.io/index.html",
+    "main.41648ad0.css.map": "/b06705039/song-web.github.io/static/css/main.41648ad0.css.map",
+    "main.b9693ff7.js.map": "/b06705039/song-web.github.io/static/js/main.b9693ff7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41648ad0.css",
+    "static/js/main.b9693ff7.js"
+  ]
+}
