@@ -1,4 +1,5 @@
-import './App.css';
+import "./App.css";
+import React from 'react';
 import Styled from 'styled-components';
 import Body from './compoonents/Body';
 import Background from './img/background.png';
